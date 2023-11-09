@@ -2,7 +2,7 @@
 
 <p>
     Command Line Interface App a concise yet powerful too built using Go and the 'cli' library. This tool is designed to showcase the true potency of CLI in a straightforward and efficient manner.  
-</p>
+</p> 
  
 ## Key features
 
