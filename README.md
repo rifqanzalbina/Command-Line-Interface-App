@@ -7,7 +7,7 @@
 ## Key features
 
 - **Short Option Combining** : Merge options into one command for maximum efficiency.
-- **Comprehensive Documentation** : With each command, get detailed insights into its workings.
+- **Comprehensive Documentation** : With each command, get detailed insights into its workings. 
 - **High Customizability** : Easily add your own comamnds and options as per your requirements
 - **Eesy to Access** : Easily to get access the system 
 
